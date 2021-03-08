@@ -1,0 +1,3 @@
+﻿  Cpp_learning_practice.cpp
+E:\CodingProject\Cpp\Cpp_learning\Cpp_learning_practice\Cpp_learning_practice.cpp(221,17): warning C4018: “>=”: 有符号/无符号不匹配
+  Cpp_learning_practice.vcxproj -> E:\CodingProject\Cpp\Cpp_learning\Cpp_learning_practice\Debug\Cpp_learning_practice.exe

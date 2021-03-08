@@ -1,0 +1,2 @@
+E:\CodingProject\Cpp\Cpp_learning\Cpp_learning_practice\Debug\Cpp_learning_practice.exe
+E:\CodingProject\Cpp\Cpp_learning\Cpp_learning_practice\Debug\Cpp_learning_practice.pdb
